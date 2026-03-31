@@ -250,9 +250,14 @@ Step-by-step algorithm visualizations where you can control the execution, modif
 | | [Merge Sort](interactive/sorting/merge-sort.html) | Visualize divide-and-conquer with recursion tree |
 | | [QuickSort](interactive/sorting/quicksort.html) | See pivot selection and partitioning in action |
 | | [Sorting Race](interactive/sorting/comparison.html) | Compare 5 algorithms racing side-by-side |
+| | [Linear Sorts](interactive/sorting/linear-sorts.html) | Counting, Radix, and Bucket Sort visualized |
 | **Searching** | [Binary Search](interactive/searching/binary-search.html) | Watch the search space halve at each step |
 | **Trees** | [BST Operations](interactive/trees/bst-operations.html) | Insert, search, and delete with visual tree updates |
 | | [AVL Rotations](interactive/trees/avl-rotations.html) | LL, RR, LR, RL rotations with balance factors |
+| **Data Structures** | [Linked Lists](interactive/data-structures/linked-lists.html) | Insert, delete, reverse, cycle detection |
+| | [Stacks & Queues](interactive/data-structures/stacks-queues.html) | LIFO/FIFO operations, bracket matching |
+| | [Hash Tables](interactive/data-structures/hash-tables.html) | Chaining, linear/quadratic probing, double hashing |
+| **Strings** | [Pattern Matching](interactive/strings/pattern-matching.html) | Naive, KMP, and Rabin-Karp algorithms |
 
 ### Practice & Assessment
 
@@ -261,8 +266,10 @@ Step-by-step algorithm visualizations where you can control the execution, modif
 | [Sorting Exercises](interactive/exercises/sorting-exercises.html) | 8 problems on algorithm tracing and complexity |
 | [Searching Exercises](interactive/exercises/searching-exercises.html) | 8 problems on binary search variants |
 | [Tree Exercises](interactive/exercises/trees-exercises.html) | 8 problems on BST and AVL operations |
+| [Data Structure Exercises](interactive/exercises/data-structures-exercises.html) | 8 problems on lists, stacks, queues, hash tables |
 | [Assignment 1: Fundamentals](interactive/homework/assignment-1-fundamentals.html) | Complexity analysis homework (100 pts) |
 | [Assignment 2: Sorting](interactive/homework/assignment-2-sorting.html) | Sorting algorithms homework (100 pts) |
+| [Assignment 3: Data Structures](interactive/homework/assignment-3-data-structures.html) | Data structures homework (100 pts) |
 
 ### Features
 
