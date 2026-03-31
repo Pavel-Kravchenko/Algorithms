@@ -1,6 +1,3 @@
-# Backup/archive of original notebooks
-origin/
-
 # Python
 __pycache__/
 *.py[cod]

@@ -10,7 +10,7 @@ os.makedirs('gifs', exist_ok=True)
 # Common settings
 FIG_SIZE = (4, 3)  # ~400x300 pixels at 100 dpi
 DPI = 100
-FRAME_INTERVAL = 500  # ms
+FRAME_INTERVAL = 1200  # ms - slower for better comprehension
 
 
 def create_bubble_sort_gif():

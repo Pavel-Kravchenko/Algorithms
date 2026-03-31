@@ -8,11 +8,13 @@ A comprehensive course covering fundamental algorithms and data structures with 
 
 ---
 
-<p align="center">
-  <img src="assets/gifs/quicksort.gif" width="300" alt="QuickSort Animation">
-  <img src="assets/gifs/binary-search.gif" width="300" alt="Binary Search Animation">
-  <img src="assets/gifs/avl-rotation.gif" width="300" alt="AVL Tree Rotation">
-</p>
+### 🎬 Algorithm Visualizations
+
+| Animation | Description |
+|:---------:|:------------|
+| <img src="assets/gifs/quicksort.gif" width="350" alt="QuickSort Animation"> | **QuickSort** — A divide-and-conquer sorting algorithm. The red element marks the **pivot**, and elements are partitioned around it. Orange highlights the current comparison. Average time complexity: O(n log n). |
+| <img src="assets/gifs/binary-search.gif" width="350" alt="Binary Search Animation"> | **Binary Search** — Efficiently finds a target in a sorted array by repeatedly halving the search space. The green marker shows the current midpoint being checked. Time complexity: O(log n). |
+| <img src="assets/gifs/avl-rotation.gif" width="350" alt="AVL Tree Rotation"> | **AVL Tree Rotations** — Self-balancing binary search tree that maintains height balance using rotations (LL, RR, LR, RL). Watch how the tree restructures after insertions to keep operations at O(log n). |
 
 ---
 
@@ -114,10 +116,10 @@ Build a solid foundation in algorithm analysis and basic computational thinking.
 
 Master the art of organizing data efficiently with a variety of sorting techniques.
 
-<p align="center">
-  <img src="assets/gifs/bubble-sort.gif" width="350" alt="Bubble Sort Animation">
-  <img src="assets/gifs/merge-sort.gif" width="350" alt="Merge Sort Animation">
-</p>
+| Animation | Description |
+|:---------:|:------------|
+| <img src="assets/gifs/bubble-sort.gif" width="350" alt="Bubble Sort Animation"> | **Bubble Sort** — Repeatedly compares adjacent elements and swaps them if they're in the wrong order. Red and orange highlight the pair being compared. Simple but inefficient: O(n²). |
+| <img src="assets/gifs/merge-sort.gif" width="350" alt="Merge Sort Animation"> | **Merge Sort** — Divides the array in half recursively, then merges sorted halves back together. A stable, divide-and-conquer algorithm with guaranteed O(n log n) performance. |
 
 **Topics:**
 - **Comparison Sorts:** Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Shell Sort, QuickSort
@@ -133,9 +135,9 @@ Master the art of organizing data efficiently with a variety of sorting techniqu
 
 Learn efficient techniques to find elements in various data structures.
 
-<p align="center">
-  <img src="assets/gifs/binary-search.gif" width="450" alt="Binary Search Animation">
-</p>
+| Animation | Description |
+|:---------:|:------------|
+| <img src="assets/gifs/binary-search.gif" width="400" alt="Binary Search Animation"> | **Binary Search** — Locates a target value by comparing it to the middle element and eliminating half of the remaining elements each step. Requires sorted input. Time complexity: O(log n). |
 
 **Topics:**
 - Linear (Sequential) Search
@@ -166,10 +168,10 @@ Implement and understand fundamental building blocks of computer science.
 
 Explore hierarchical data structures essential for efficient data organization.
 
-<p align="center">
-  <img src="assets/gifs/bst-insert.gif" width="350" alt="BST Insert Animation">
-  <img src="assets/gifs/avl-rotation.gif" width="350" alt="AVL Rotation Animation">
-</p>
+| Animation | Description |
+|:---------:|:------------|
+| <img src="assets/gifs/bst-insert.gif" width="350" alt="BST Insert Animation"> | **BST Insertion** — New nodes are placed by comparing with each node: go left if smaller, right if larger, until finding an empty spot. Average O(log n), but can degrade to O(n) if unbalanced. |
+| <img src="assets/gifs/avl-rotation.gif" width="350" alt="AVL Rotation Animation"> | **AVL Rotations** — After each insertion, the tree checks balance factors and performs rotations to maintain height balance, ensuring all operations stay at O(log n). |
 
 **Topics:**
 - **Binary Search Trees (BST):** Insert, delete, search, traversals
@@ -216,9 +218,9 @@ Master efficient text processing and pattern matching techniques.
 
 Dive into sophisticated data structures for complex string operations.
 
-<p align="center">
-  <img src="assets/gifs/trie-insert.gif" width="450" alt="Trie Insert Animation">
-</p>
+| Animation | Description |
+|:---------:|:------------|
+| <img src="assets/gifs/trie-insert.gif" width="400" alt="Trie Insert Animation"> | **Trie Construction** — A prefix tree that stores strings character by character. Each path from root to a green node (end marker) represents a stored word. Enables O(m) search where m is the word length. |
 
 **Topics:**
 - **Tries:** Prefix trees, autocomplete, spell checking
