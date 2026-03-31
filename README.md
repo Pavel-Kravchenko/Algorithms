@@ -31,6 +31,8 @@ A comprehensive course covering fundamental algorithms and data structures with 
   - [Module 6: Hash-Based Structures](#-module-6-hash-based-structures)
   - [Module 7: String Algorithms](#-module-7-string-algorithms)
   - [Module 8: Advanced String Structures](#-module-8-advanced-string-structures)
+  - [Module 9: Graph Algorithms](#-module-9-graph-algorithms) 🆕
+  - [Module 10: Dynamic Programming](#-module-10-dynamic-programming) 🆕
 - [Interactive Visualizations](#-interactive-visualizations)
 - [Quick Reference Table](#-quick-reference-table)
 - [Prerequisites](#-prerequisites)
@@ -234,6 +236,38 @@ Dive into sophisticated data structures for complex string operations.
 
 ---
 
+### 🕸️ Module 9: Graph Algorithms
+
+Essential algorithms for connectivity, pathfinding, and optimization on graphs.
+
+**Topics:**
+- **Graph Representations:** Adjacency matrix, adjacency list, edge list
+- **BFS & DFS:** Breadth-first and depth-first traversals
+- **Shortest Paths:** Dijkstra's, Bellman-Ford, Floyd-Warshall
+- **Minimum Spanning Trees:** Kruskal's and Prim's algorithms
+- **Topological Sort:** DAG ordering for dependency resolution
+- **Cycle Detection:** Finding cycles in directed/undirected graphs
+
+📁 **Module:** [09-Graph-Algorithms](09-Graph-Algorithms/README.md)
+
+---
+
+### 📋 Module 10: Dynamic Programming
+
+Solve optimization problems by breaking them into overlapping subproblems.
+
+**Topics:**
+- **Memoization vs Tabulation:** Top-down vs bottom-up approaches
+- **Classic Problems:** Fibonacci, Climbing Stairs, Coin Change
+- **Sequence DP:** LCS, LIS, Edit Distance
+- **Knapsack Problems:** 0/1 Knapsack, Subset Sum
+- **Interval DP:** Matrix Chain Multiplication
+- **State Space Design:** Identifying subproblems and recurrence relations
+
+📁 **Module:** [10-Dynamic-Programming](10-Dynamic-Programming/README.md)
+
+---
+
 ## 🎮 Interactive Visualizations
 
 > **NEW!** Learn algorithms through hands-on interactive visualizations
@@ -258,6 +292,9 @@ Step-by-step algorithm visualizations where you can control the execution, modif
 | | [Stacks & Queues](interactive/data-structures/stacks-queues.html) | LIFO/FIFO operations, bracket matching |
 | | [Hash Tables](interactive/data-structures/hash-tables.html) | Chaining, linear/quadratic probing, double hashing |
 | **Strings** | [Pattern Matching](interactive/strings/pattern-matching.html) | Naive, KMP, and Rabin-Karp algorithms |
+| **Graphs** | [BFS & DFS](interactive/graphs/bfs-dfs.html) | Compare traversals with queue/stack visualization |
+| | [Dijkstra's Algorithm](interactive/graphs/dijkstra.html) | Shortest paths with priority queue animation |
+| **Dynamic Programming** | [DP Table Fill](interactive/dp/table-fill.html) | Fibonacci, LCS, Edit Distance, Knapsack |
 
 ### Practice & Assessment
 
