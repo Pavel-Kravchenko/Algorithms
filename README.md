@@ -294,6 +294,7 @@ Step-by-step algorithm visualizations where you can control the execution, modif
 | **Strings** | [Pattern Matching](interactive/strings/pattern-matching.html) | Naive, KMP, and Rabin-Karp algorithms |
 | **Graphs** | [BFS & DFS](interactive/graphs/bfs-dfs.html) | Compare traversals with queue/stack visualization |
 | | [Dijkstra's Algorithm](interactive/graphs/dijkstra.html) | Shortest paths with priority queue animation |
+| | [Minimum Spanning Tree](interactive/graphs/mst.html) | Kruskal's and Prim's algorithms |
 | **Dynamic Programming** | [DP Table Fill](interactive/dp/table-fill.html) | Fibonacci, LCS, Edit Distance, Knapsack |
 
 ### Practice & Assessment
