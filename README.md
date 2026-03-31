@@ -296,6 +296,7 @@ Step-by-step algorithm visualizations where you can control the execution, modif
 | | [Dijkstra's Algorithm](interactive/graphs/dijkstra.html) | Shortest paths with priority queue animation |
 | | [Minimum Spanning Tree](interactive/graphs/mst.html) | Kruskal's and Prim's algorithms |
 | **Dynamic Programming** | [DP Table Fill](interactive/dp/table-fill.html) | Fibonacci, LCS, Edit Distance, Knapsack |
+| **Backtracking** | [N-Queens & Permutations](interactive/backtracking/backtracking.html) | Explore solution space with pruning |
 
 ### Practice & Assessment
 
