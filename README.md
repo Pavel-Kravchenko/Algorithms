@@ -31,6 +31,7 @@ A comprehensive course covering fundamental algorithms and data structures with 
   - [Module 6: Hash-Based Structures](#-module-6-hash-based-structures)
   - [Module 7: String Algorithms](#-module-7-string-algorithms)
   - [Module 8: Advanced String Structures](#-module-8-advanced-string-structures)
+- [Interactive Visualizations](#-interactive-visualizations)
 - [Quick Reference Table](#-quick-reference-table)
 - [Prerequisites](#-prerequisites)
 - [Getting Started](#-getting-started)
@@ -230,6 +231,46 @@ Dive into sophisticated data structures for complex string operations.
 - Pattern matching in DNA sequences and text editors
 
 📁 **Notebooks:** [01-tries](08-Advanced-String-Structures/01-tries.ipynb) | [02-aho-corasick](08-Advanced-String-Structures/02-aho-corasick.ipynb) | [03-suffix-arrays](08-Advanced-String-Structures/03-suffix-arrays.ipynb) | [04-suffix-trees](08-Advanced-String-Structures/04-suffix-trees.ipynb)
+
+---
+
+## 🎮 Interactive Visualizations
+
+> **NEW!** Learn algorithms through hands-on interactive visualizations
+
+### [🚀 Launch Interactive Learning Center](interactive/index.html)
+
+Step-by-step algorithm visualizations where you can control the execution, modify inputs, and see exactly how each algorithm works.
+
+### Available Visualizations
+
+| Category | Visualization | Description |
+|----------|--------------|-------------|
+| **Sorting** | [Bubble Sort](interactive/sorting/bubble-sort.html) | Watch elements "bubble up" with step-by-step animation |
+| | [Merge Sort](interactive/sorting/merge-sort.html) | Visualize divide-and-conquer with recursion tree |
+| | [QuickSort](interactive/sorting/quicksort.html) | See pivot selection and partitioning in action |
+| | [Sorting Race](interactive/sorting/comparison.html) | Compare 5 algorithms racing side-by-side |
+| **Searching** | [Binary Search](interactive/searching/binary-search.html) | Watch the search space halve at each step |
+| **Trees** | [BST Operations](interactive/trees/bst-operations.html) | Insert, search, and delete with visual tree updates |
+| | [AVL Rotations](interactive/trees/avl-rotations.html) | LL, RR, LR, RL rotations with balance factors |
+
+### Practice & Assessment
+
+| Resource | Description |
+|----------|-------------|
+| [Sorting Exercises](interactive/exercises/sorting-exercises.html) | 8 problems on algorithm tracing and complexity |
+| [Searching Exercises](interactive/exercises/searching-exercises.html) | 8 problems on binary search variants |
+| [Tree Exercises](interactive/exercises/trees-exercises.html) | 8 problems on BST and AVL operations |
+| [Assignment 1: Fundamentals](interactive/homework/assignment-1-fundamentals.html) | Complexity analysis homework (100 pts) |
+| [Assignment 2: Sorting](interactive/homework/assignment-2-sorting.html) | Sorting algorithms homework (100 pts) |
+
+### Features
+
+- ▶️ **Play/Pause/Step** — Control execution speed or step through one operation at a time
+- 🎨 **Color-Coded States** — See comparing, swapping, sorted, and pivot elements
+- 📊 **Statistics** — Track comparisons, swaps, and steps in real-time
+- ✏️ **Custom Input** — Enter your own arrays to visualize
+- 💡 **Toggle Solutions** — Practice problems with hidden solutions
 
 ---
 
