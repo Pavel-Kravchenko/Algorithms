@@ -12,7 +12,7 @@ A comprehensive course covering fundamental algorithms and data structures with 
 
 | Animation | Description |
 |:---------:|:------------|
-| <img src="assets/gifs/quicksort.gif" width="350" alt="QuickSort Animation"> | **QuickSort** — A divide-and-conquer sorting algorithm. The red element marks the **pivot**, and elements are partitioned around it. Orange highlights the current comparison. Average time complexity: O(n log n). |
+| <img src="assets/gifs/quicksort.gif" width="350" alt="QuickSort Animation"> | **QuickSort** — A divide-and-conquer sorting algorithm. The green element marks the **pivot**, and elements are partitioned around it. Red highlights the current comparison, light blue shows the partition region. Average time complexity: O(n log n). |
 | <img src="assets/gifs/binary-search.gif" width="350" alt="Binary Search Animation"> | **Binary Search** — Efficiently finds a target in a sorted array by repeatedly halving the search space. The green marker shows the current midpoint being checked. Time complexity: O(log n). |
 | <img src="assets/gifs/avl-rotation.gif" width="350" alt="AVL Tree Rotation"> | **AVL Tree Rotations** — Self-balancing binary search tree that maintains height balance using rotations (LL, RR, LR, RL). Watch how the tree restructures after insertions to keep operations at O(log n). |
 
