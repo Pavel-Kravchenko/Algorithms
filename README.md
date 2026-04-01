@@ -288,10 +288,12 @@ Step-by-step algorithm visualizations where you can control the execution, modif
 | **Searching** | [Binary Search](interactive/searching/binary-search.html) | Watch the search space halve at each step |
 | **Trees** | [BST Operations](interactive/trees/bst-operations.html) | Insert, search, and delete with visual tree updates |
 | | [AVL Rotations](interactive/trees/avl-rotations.html) | LL, RR, LR, RL rotations with balance factors |
+| | [Heap Operations](interactive/trees/heap-operations.html) | Min/Max Heap insert, extract, and heapify |
 | **Data Structures** | [Linked Lists](interactive/data-structures/linked-lists.html) | Insert, delete, reverse, cycle detection |
 | | [Stacks & Queues](interactive/data-structures/stacks-queues.html) | LIFO/FIFO operations, bracket matching |
 | | [Hash Tables](interactive/data-structures/hash-tables.html) | Chaining, linear/quadratic probing, double hashing |
 | **Strings** | [Pattern Matching](interactive/strings/pattern-matching.html) | Naive, KMP, and Rabin-Karp algorithms |
+| | [Trie (Prefix Tree)](interactive/strings/trie.html) | Insert, search, prefix queries with tree visualization |
 | **Graphs** | [BFS & DFS](interactive/graphs/bfs-dfs.html) | Compare traversals with queue/stack visualization |
 | | [Dijkstra's Algorithm](interactive/graphs/dijkstra.html) | Shortest paths with priority queue animation |
 | | [Minimum Spanning Tree](interactive/graphs/mst.html) | Kruskal's and Prim's algorithms |
@@ -306,9 +308,12 @@ Step-by-step algorithm visualizations where you can control the execution, modif
 | [Searching Exercises](interactive/exercises/searching-exercises.html) | 8 problems on binary search variants |
 | [Tree Exercises](interactive/exercises/trees-exercises.html) | 8 problems on BST and AVL operations |
 | [Data Structure Exercises](interactive/exercises/data-structures-exercises.html) | 8 problems on lists, stacks, queues, hash tables |
+| [Graph Exercises](interactive/exercises/graphs-exercises.html) | 8 problems on BFS, DFS, shortest paths, MST |
+| [DP Exercises](interactive/exercises/dp-exercises.html) | 8 classic DP problems with solutions |
 | [Assignment 1: Fundamentals](interactive/homework/assignment-1-fundamentals.html) | Complexity analysis homework (100 pts) |
 | [Assignment 2: Sorting](interactive/homework/assignment-2-sorting.html) | Sorting algorithms homework (100 pts) |
 | [Assignment 3: Data Structures](interactive/homework/assignment-3-data-structures.html) | Data structures homework (100 pts) |
+| [Assignment 4: Graphs & DP](interactive/homework/assignment-4-graphs-dp.html) | Graph algorithms & DP homework (100 pts) |
 
 ### Features
 
